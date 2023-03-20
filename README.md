@@ -1,7 +1,7 @@
 # Challenges of Indoor SLAM: A multi-modal multi-floor dataset for SLAM evaluation
 
 <p align="center">
-  <img src="https://github.com/neufieldrobotics/NUFR-M3F/blob/main/ISEC_Atrium2.jpeg" width="350" alt="ISEC Atrium">
+  <img src="ISEC_Atrium2.jpeg" width="350" alt="ISEC Atrium">
   <img src="https://github.com/neufieldrobotics/NUFR-M3F/blob/main/Ridgeback.jpg" width="350" alt="Ridgeback">
   <img src="https://github.com/neufieldrobotics/NUFR-M3F/blob/main/lidar_map.png" width="350" alt="Lidar map">
 </p>
