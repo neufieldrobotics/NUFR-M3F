@@ -3,14 +3,14 @@
 <table align="center">
   <tr>
     <td> 
-      <img src="figures/Ridgeback.jpg" height="400" >
+      <img src="figures/Ridgeback.jpg" height="450" >
     </td>
     <td> 
-      <img src="figures/ISEC_Atrium2.jpeg" height="400" >
+      <img src="figures/ISEC_Atrium2.jpeg" height="450" >
     </td>
   </tr>
   <tr>
-    <td> 
+    <td colspan="2"> 
       <img src="figures/lidar_map.png" >
     </td>
   </tr>
