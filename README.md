@@ -55,8 +55,5 @@ Top view of the sensor rig showing sensor frames for the front-facing camera arr
 Dscription of various sensors and their settings used to collect
 our dataset. Note that Zed2i sensor is available only in the Snell dataset.
 
-<!-- 
-<p align="center">
-  
-</p> -->
+### Citation
 
