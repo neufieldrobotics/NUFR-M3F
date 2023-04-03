@@ -20,7 +20,7 @@ A comprehensive list of all the sequences in our dataset and their description. 
 
 ISEC dataset
 | Label  | Size (GB) | Duration(s) |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | [full_sequence](https://drive.google.com/drive/folders/1Ga-fHoi3LFw0a25dUwJsKGJ12bB-HEwp?usp=sharing) | 515.0 | 1539.70 |
 | [5th_floor](https://drive.google.com/drive/folders/1bodhTBSmlg3DGN_VPqlkIyLb9d2fvvjE?usp=sharing) | 145.8 | 437.86 |
 | [transit_5_to_1](https://drive.google.com/drive/folders/1iHA91S_R2d6du8wSw7r7V2jN0lpxVlnI?usp=share_link) | 36.8 | 109.00 |
