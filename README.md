@@ -18,6 +18,7 @@ our dataset. Note that Zed2i sensor is available only in the Snell dataset.
 <img src="figures/dataset_desc.png" width="350">
 A comprehensive list of all the sequences in our dataset and their description. Trajectory lengths are approximate and should only be used for qualitative comparison. They were derived from the best available trajectory estimate for each segment. This was typically lidar odometry (LegoLOAM) for the loop sequences and VIO (Basalt or VINS Fusion) for sequences inside elevators. See section V for more details on trajectory estimates.
 
+| ISEC |
 | Label  | Size (GB) |
 | ------------- | ------------- |
 | [full_sequence](https://drive.google.com/drive/folders/1Ga-fHoi3LFw0a25dUwJsKGJ12bB-HEwp?usp=sharing) | 515.0 |
