@@ -31,6 +31,17 @@ ISEC dataset
 | [2nd_floor](https://drive.google.com/drive/folders/1_qwDXHqz1OtYBfuX4VuxXUc-JytevAbD?usp=share_link) | 89.7 | 266.00 | 128 | two loops in a figure eight |
 | [transit_2_to_5](https://drive.google.com/drive/folders/1E5vQF8ZI2Y8y2u3rlTdDXqgphw5mgj8u?usp=share_link) | 22.2 | 65.86 | 128 | transit from 2nd floor to fifth floor in right elevator |
 
+Snell library dataset
+| Label  | Size (GB) | Duration (s) | Appx. Length (m) | Description |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [full sequence](https://drive.google.com/drive/folders/1XlQYS91HB1Qx1WoiuLxem5DEurWXezpT?usp=share_link) | 573.5 | 1,700.6 | 699 | feature rich rooms, featureless hallways, many obstacles, stationary and dynamic people in scene |
+| [1st_floor](https://drive.google.com/drive/folders/1cHyJu-8BeTQcATcHj5GXpW3iNqHidvCj?usp=share_link) | 144.6 | 428.70 | 221 | two loops with shared segment, some dynamic content |
+| [transit_1_to_3](https://drive.google.com/drive/folders/1jwLwl_Y0f1bEuNEO_T7FxLNf95PPvAnS?usp=share_link) | 28.3 | 84.00 | N/A | transit from 1st floor to 3rd floor in left elevator |
+| [3rd_floor](https://drive.google.com/drive/folders/1zuVoPOvdKbsc26AqG_ecfEkGGVv8M_kP?usp=share_link) | 213.7 | 633.59 | 345 | two concentric loops with two shared segments, narrow corridor with dynamic content, near field obstructions |
+| [transit_3_to_2](https://drive.google.com/drive/folders/1GstzwQOmjdx08IFZ6xrQJyPcRtCouNMQ?usp=share_link) | 27.8 | 82.41 | N/A | transit from 3rd floor to 2nd floor in right elevator |
+| [2nd_floor](https://drive.google.com/drive/folders/11gy9NmFJeSz-bZi5RyosAuZbVIX1PTex?usp=share_link) | 126.1 | 374.00 | 186 | one loop, out and back in featureless corridor |
+| [transit_2_to_1](https://drive.google.com/drive/folders/1zYIuXPg_SqJriymxaWMmFb9yzB0hN9ns?usp=share_link) | 33.0 | 97.90 | N/A | transit from 2nd floor to 1st floor in right elevator, dynamic objects cover FOV near end |
+
 <!-- 
 <p align="center">
   
