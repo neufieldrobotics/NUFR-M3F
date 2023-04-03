@@ -11,12 +11,24 @@ The dataset is available at the following [link](https://drive.google.com/drive/
 <img src="figures/Rig_Top_View_Frames_Update_crop.png" width="350">
 Top view of the sensor rig showing sensor frames for the front-facing camera array (red), the non-overlapping side cameras (orange), the IMU (green) and the lidar (blue). Note the above image follows the convention that $\otimes$ indicates an axis into the plane of the image, and $\bullet$ indicates an axis out of the plane of the image. All of the cameras are z-axis forward, y-axis down.
 
-<img src="figures/sensors_settings.png" width="350">
+<img src="figures/sensor_setup.png" width="350">
 Dscription of various sensors and their settings used to collect
 our dataset. Note that Zed2i sensor is available only in the Snell dataset.
 
 <img src="figures/dataset_desc.png" width="350">
 A comprehensive list of all the sequences in our dataset and their description. Trajectory lengths are approximate and should only be used for qualitative comparison. They were derived from the best available trajectory estimate for each segment. This was typically lidar odometry (LegoLOAM) for the loop sequences and VIO (Basalt or VINS Fusion) for sequences inside elevators. See section V for more details on trajectory estimates.
+
+| Label  | Size (GB) |
+| ------------- | ------------- |
+| [full_sequence](https://drive.google.com/drive/folders/1Ga-fHoi3LFw0a25dUwJsKGJ12bB-HEwp?usp=sharing) | 515.0 |
+| [5th_floor](https://drive.google.com/drive/folders/1bodhTBSmlg3DGN_VPqlkIyLb9d2fvvjE?usp=sharing) | 145.8 |
+| [transit_5_to_1](https://drive.google.com/drive/folders/1iHA91S_R2d6du8wSw7r7V2jN0lpxVlnI?usp=share_link) | 36.8 |
+| [1st_floor](https://drive.google.com/drive/folders/12fcjSrnav_AK1eJKcqtylvWP2Bq5m8sK?usp=share_link) | 43.0 |
+| [transit_1_to_4](https://drive.google.com/drive/folders/1i32k5xSu41RaxCGgNXbSMPNWxNdU6wok?usp=share_link) | 112.4 |
+| [4th_floor](https://drive.google.com/drive/folders/1boNtQkpxRmYPAkKPyBxn6hZDB18TUkAy?usp=share_link) | 43.2 |
+| [transit_4_to_2](https://drive.google.com/drive/folders/1oLeKG4bxgCQEu3twBVvBLoK8ZHUNVqnQ?usp=share_link) | 21.9 |
+| [2nd_floor](https://drive.google.com/drive/folders/1_qwDXHqz1OtYBfuX4VuxXUc-JytevAbD?usp=share_link) | 89.7 |
+| [transit_2_to_5](https://drive.google.com/drive/folders/1E5vQF8ZI2Y8y2u3rlTdDXqgphw5mgj8u?usp=share_link) | 22.2 |
 
 <!-- 
 <p align="center">
