@@ -8,17 +8,8 @@
 
 The dataset is available at the following [link](https://drive.google.com/drive/u/0/folders/1pLYTbjHxf9Q_S2exgxMLeT770NQDUMmA)
 
-<img src="figures/Rig_Top_View_Frames_Update_crop.png" width="350">
-Top view of the sensor rig showing sensor frames for the front-facing camera array (red), the non-overlapping side cameras (orange), the IMU (green) and the lidar (blue). Note the above image follows the convention that $\otimes$ indicates an axis into the plane of the image, and $\bullet$ indicates an axis out of the plane of the image. All of the cameras are z-axis forward, y-axis down.
-
-<img src="figures/sensor_setup.png" width="350">
-Dscription of various sensors and their settings used to collect
-our dataset. Note that Zed2i sensor is available only in the Snell dataset.
-
-<img src="figures/dataset_desc.png" width="350">
-A comprehensive list of all the sequences in our dataset and their description. Trajectory lengths are approximate and should only be used for qualitative comparison. They were derived from the best available trajectory estimate for each segment. This was typically lidar odometry (LegoLOAM) for the loop sequences and VIO (Basalt or VINS Fusion) for sequences inside elevators. See section V for more details on trajectory estimates.
-
-ISEC dataset
+## Downloads
+### ISEC dataset
 | Label  | Size (GB) | Duration (s) | Appx. Length (m) | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [full_sequence](https://drive.google.com/drive/folders/1Ga-fHoi3LFw0a25dUwJsKGJ12bB-HEwp?usp=sharing) | 515.0 | 1539.70 | 782 | reflective surfaces, minimal dynamic content, daylight, symmetric floors, elevators, open atrium |
@@ -31,16 +22,26 @@ ISEC dataset
 | [2nd_floor](https://drive.google.com/drive/folders/1_qwDXHqz1OtYBfuX4VuxXUc-JytevAbD?usp=share_link) | 89.7 | 266.00 | 128 | two loops in a figure eight |
 | [transit_2_to_5](https://drive.google.com/drive/folders/1E5vQF8ZI2Y8y2u3rlTdDXqgphw5mgj8u?usp=share_link) | 22.2 | 65.86 | 128 | transit from 2nd floor to fifth floor in right elevator |
 
-Snell library dataset
+### Snell library dataset
 | Label  | Size (GB) | Duration (s) | Appx. Length (m) | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [full sequence](https://drive.google.com/drive/folders/1XlQYS91HB1Qx1WoiuLxem5DEurWXezpT?usp=share_link) | 573.5 | 1,700.6 | 699 | feature rich rooms, featureless hallways, many obstacles, stationary and dynamic people in scene |
+| [full_sequence](https://drive.google.com/drive/folders/1XlQYS91HB1Qx1WoiuLxem5DEurWXezpT?usp=share_link) | 573.5 | 1,700.6 | 699 | feature rich rooms, featureless hallways, many obstacles, stationary and dynamic people in scene |
 | [1st_floor](https://drive.google.com/drive/folders/1cHyJu-8BeTQcATcHj5GXpW3iNqHidvCj?usp=share_link) | 144.6 | 428.70 | 221 | two loops with shared segment, some dynamic content |
 | [transit_1_to_3](https://drive.google.com/drive/folders/1jwLwl_Y0f1bEuNEO_T7FxLNf95PPvAnS?usp=share_link) | 28.3 | 84.00 | N/A | transit from 1st floor to 3rd floor in left elevator |
 | [3rd_floor](https://drive.google.com/drive/folders/1zuVoPOvdKbsc26AqG_ecfEkGGVv8M_kP?usp=share_link) | 213.7 | 633.59 | 345 | two concentric loops with two shared segments, narrow corridor with dynamic content, near field obstructions |
 | [transit_3_to_2](https://drive.google.com/drive/folders/1GstzwQOmjdx08IFZ6xrQJyPcRtCouNMQ?usp=share_link) | 27.8 | 82.41 | N/A | transit from 3rd floor to 2nd floor in right elevator |
 | [2nd_floor](https://drive.google.com/drive/folders/11gy9NmFJeSz-bZi5RyosAuZbVIX1PTex?usp=share_link) | 126.1 | 374.00 | 186 | one loop, out and back in featureless corridor |
 | [transit_2_to_1](https://drive.google.com/drive/folders/1zYIuXPg_SqJriymxaWMmFb9yzB0hN9ns?usp=share_link) | 33.0 | 97.90 | N/A | transit from 2nd floor to 1st floor in right elevator, dynamic objects cover FOV near end |
+
+## Sensors
+### Sensor rig
+<img src="figures/Rig_Top_View_Frames_Update_crop.png" width="350">
+Top view of the sensor rig showing sensor frames for the front-facing camera array (red), the non-overlapping side cameras (orange), the IMU (green) and the lidar (blue). Note the above image follows the convention that $\otimes$ indicates an axis into the plane of the image, and $\bullet$ indicates an axis out of the plane of the image. All of the cameras are z-axis forward, y-axis down.
+
+### Sensor setup
+<img src="figures/sensor_setup.png" width="350">
+Dscription of various sensors and their settings used to collect
+our dataset. Note that Zed2i sensor is available only in the Snell dataset.
 
 <!-- 
 <p align="center">
