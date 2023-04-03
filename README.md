@@ -35,11 +35,11 @@ The dataset is available at the following [link](https://drive.google.com/drive/
 
 ## Sensors
 ### Sensor rig
-<img src="figures/Rig_Top_View_Frames_Update_crop.png" width="350">
+<img src="figures/Rig_Top_View_Frames_Update_crop.png" width="500" align="center">
 Top view of the sensor rig showing sensor frames for the front-facing camera array (red), the non-overlapping side cameras (orange), the IMU (green) and the lidar (blue). Note the above image follows the convention that $\otimes$ indicates an axis into the plane of the image, and $\bullet$ indicates an axis out of the plane of the image. All of the cameras are z-axis forward, y-axis down.
 
 ### Sensor setup
-<img src="figures/sensor_setup.png" width="350">
+<img src="figures/sensor_setup.png" width="500" align="center">
 Dscription of various sensors and their settings used to collect
 our dataset. Note that Zed2i sensor is available only in the Snell dataset.
 
