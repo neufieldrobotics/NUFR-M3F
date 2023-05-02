@@ -35,9 +35,12 @@ The dataset is available at the following [link](https://drive.google.com/drive/
 | [transit_2_to_5](https://drive.google.com/drive/folders/1E5vQF8ZI2Y8y2u3rlTdDXqgphw5mgj8u?usp=share_link) | 22.2 | 65.86 | 128 | transit from 2nd floor to fifth floor in right elevator |
 
 ### ISEC dataset calibration
-Front cameras calibration: [link](https://drive.google.com/file/d/1lxLkwcEMKf5TeIiJWZ2X6-NtqaPyxaO-/view?usp=share_link) <br />
-Front camera_2 to IMU calibration: [link](https://drive.google.com/file/d/1OkmgSuuP0SIqZA20dMNP2pWIjLqgDBre/view?usp=share_link) <br />
-IMU parameters: [link](https://drive.google.com/file/d/1EOVYdOzPHtPbLP-UCKShVpp_N6YuehTd/view?usp=share_link) <br />
+| Name  | Description |
+| ------------- | ------------- |
+| [cams_calib.yaml](https://drive.google.com/file/d/1lxLkwcEMKf5TeIiJWZ2X6-NtqaPyxaO-/view?usp=share_link) | calibration of front 5 cameras, including intrinsics and relative transformation between them |
+| [cam2_imu_calib.yaml](https://drive.google.com/file/d/1OkmgSuuP0SIqZA20dMNP2pWIjLqgDBre/view?usp=share_link) | transformation between camera_2 and IMU, including time shift between camera_2 and IMU |
+| [imu_params.yaml](https://drive.google.com/file/d/1EOVYdOzPHtPbLP-UCKShVpp_N6YuehTd/view?usp=share_link) | IMU parameters, including noise parameters of accelerometer and gyroscope, as well as sampling rate |
+
 
 ### Snell library dataset
 | Label  | Size (GB) | Duration (s) | Appx. Length (m) | Description |
