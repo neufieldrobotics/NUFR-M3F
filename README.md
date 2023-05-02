@@ -53,6 +53,13 @@ The dataset is available at the following [link](https://drive.google.com/drive/
 | [2nd_floor](https://drive.google.com/drive/folders/11gy9NmFJeSz-bZi5RyosAuZbVIX1PTex?usp=share_link) | 126.1 | 374.00 | 186 | one loop, out and back in featureless corridor |
 | [transit_2_to_1](https://drive.google.com/drive/folders/1zYIuXPg_SqJriymxaWMmFb9yzB0hN9ns?usp=share_link) | 33.0 | 97.90 | N/A | transit from 2nd floor to 1st floor in right elevator, dynamic objects cover FOV near end |
 
+### Snell library dataset calibration
+| Name  | Description |
+| ------------- | ------------- |
+| [cams_calib.yaml](https://drive.google.com/file/d/1d6XwNWtx5Bu03agrkKPlRpEuvOIisJHv/view?usp=share_link) | calibration of front 5 cameras, including intrinsics and relative transformation between them |
+| [cam2_imu_calib.yaml](https://drive.google.com/file/d/17OgNnYdiJjagEJY9ksH3QaQESxRe_-KT/view?usp=share_link) | transformation between camera_2 and IMU, including time shift between camera_2 and IMU |
+| [imu_params.yaml](https://drive.google.com/file/d/1bBJcpRgAZ2xPzmQIeKdmH830vK2Qj7CN/view?usp=share_link) | IMU parameters, including noise parameters of accelerometer and gyroscope, as well as sampling rate |
+
 ## Sensors
 ### Sensor rig
 <img src="figures/Rig_Top_View_Frames_Update_crop.png">
