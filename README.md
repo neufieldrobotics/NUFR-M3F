@@ -57,7 +57,7 @@ The dataset is available at the following [link](https://drive.google.com/drive/
 | Name  | Description |
 | ------------- | ------------- |
 | [cams_calib.yaml](https://drive.google.com/file/d/1d6XwNWtx5Bu03agrkKPlRpEuvOIisJHv/view?usp=share_link) | calibration of front 5 cameras, including intrinsics and relative transformation between them |
-| [cam2_imu_calib.yaml](https://drive.google.com/file/d/17OgNnYdiJjagEJY9ksH3QaQESxRe_-KT/view?usp=share_link) | transformation between camera_2 and IMU, including time shift between camera_2 and IMU |
+| [cam2_imu_calib.yaml](https://drive.google.com/file/d/17OgNnYdiJjagEJY9ksH3QaQESxRe_-KT/view?usp=share_link) | transformation between camera_2 and IMU, as well as time shift between camera_2 and IMU |
 
 ### Snell library dataset Zed calibration
 | Name  | Description |
