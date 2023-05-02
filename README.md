@@ -60,6 +60,8 @@ The dataset is available at the following [link](https://drive.google.com/drive/
 | [cam2_imu_calib.yaml](https://drive.google.com/file/d/17OgNnYdiJjagEJY9ksH3QaQESxRe_-KT/view?usp=share_link) | transformation between camera_2 and IMU, including time shift between camera_2 and IMU |
 
 ### Snell library dataset Zed calibration
+| Name  | Description |
+| ------------- | ------------- |
 | [zed_cam2_calib.yaml](https://drive.google.com/file/d/1S4K20u1G0WCSu8oTaEoZZ3gugwpZ8kau/view?usp=share_link) | calibration of Zed cameras, including intrinsics and relative transformation with respect to camera_2 of the front 5 cameras |
 | [zed_imu_params.yaml](https://drive.google.com/file/d/1Syekm1cHlnvpMWRa57OQgoIvdYn9fack/view?usp=share_link) | Zed IMU parameters, including noise parameters of accelerometer and gyroscope, as well as transformation with respect to the body frame |
 
