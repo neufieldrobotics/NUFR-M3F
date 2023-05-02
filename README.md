@@ -34,6 +34,11 @@ The dataset is available at the following [link](https://drive.google.com/drive/
 | [2nd_floor](https://drive.google.com/drive/folders/1_qwDXHqz1OtYBfuX4VuxXUc-JytevAbD?usp=share_link) | 89.7 | 266.00 | 128 | two loops in a figure eight |
 | [transit_2_to_5](https://drive.google.com/drive/folders/1E5vQF8ZI2Y8y2u3rlTdDXqgphw5mgj8u?usp=share_link) | 22.2 | 65.86 | 128 | transit from 2nd floor to fifth floor in right elevator |
 
+### ISEC dataset calibration
+[Front cameras calibration](https://drive.google.com/file/d/1lxLkwcEMKf5TeIiJWZ2X6-NtqaPyxaO-/view?usp=share_link)
+[Front camera_2 to IMU calibration](https://drive.google.com/file/d/1OkmgSuuP0SIqZA20dMNP2pWIjLqgDBre/view?usp=share_link)
+[IMU parameters](https://drive.google.com/file/d/1EOVYdOzPHtPbLP-UCKShVpp_N6YuehTd/view?usp=share_link)
+
 ### Snell library dataset
 | Label  | Size (GB) | Duration (s) | Appx. Length (m) | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
