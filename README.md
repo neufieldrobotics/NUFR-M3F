@@ -39,6 +39,8 @@ The dataset is available at the following [link](https://drive.google.com/drive/
 | ------------- | ------------- |
 | [cams_calib.yaml](https://drive.google.com/file/d/1lxLkwcEMKf5TeIiJWZ2X6-NtqaPyxaO-/view?usp=share_link) | calibration of front 5 cameras, including intrinsics and relative transformation between them |
 | [cam2_imu_calib.yaml](https://drive.google.com/file/d/1OkmgSuuP0SIqZA20dMNP2pWIjLqgDBre/view?usp=share_link) | transformation between camera_2 and IMU, including time shift between camera_2 and IMU |
+| [cam5_imu_calib.yaml](https://drive.google.com/file/d/1v5X4eFYMGDElXC9_6XWVLyP9sPpX-qC-/view?usp=sharing) | calibration of left side camera and transformation between camera_5 and IMU, including time shift between camera_5 and IMU |
+| [cam6_imu_calib.yaml](https://drive.google.com/file/d/1rXDKZJzVmS89LV86IeSGas2QULWsbO_M/view?usp=sharing) | calibration of right side camera and transformation between camera_6 and IMU, including time shift between camera_6 and IMU |
 | [imu_params.yaml](https://drive.google.com/file/d/1EOVYdOzPHtPbLP-UCKShVpp_N6YuehTd/view?usp=share_link) | IMU parameters, including noise parameters of accelerometer and gyroscope, as well as sampling rate |
 
 
@@ -58,6 +60,7 @@ The dataset is available at the following [link](https://drive.google.com/drive/
 | ------------- | ------------- |
 | [cams_calib.yaml](https://drive.google.com/file/d/1d6XwNWtx5Bu03agrkKPlRpEuvOIisJHv/view?usp=share_link) | calibration of front 5 cameras, including intrinsics and relative transformation between them |
 | [cam2_imu_calib.yaml](https://drive.google.com/file/d/17OgNnYdiJjagEJY9ksH3QaQESxRe_-KT/view?usp=share_link) | transformation between camera_2 and IMU, as well as time shift between camera_2 and IMU |
+| [imu_params.yaml](https://drive.google.com/file/d/1bBJcpRgAZ2xPzmQIeKdmH830vK2Qj7CN/view?usp=sharing) | IMU parameters, including noise parameters of accelerometer and gyroscope, as well as sampling rate |
 
 ### Snell library dataset Zed calibration
 | Name  | Description |
