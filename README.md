@@ -79,4 +79,15 @@ Dscription of various sensors and their settings used to collect
 our dataset. Note that Zed2i sensor is available only in the Snell dataset.
 
 ### Citation
-
+If you use our work, please consider citing:
+```
+@INPROCEEDINGS{10260618,
+  author={Kaveti, Pushyami and Gupta, Aniket and Giaya, Dennis and Karp, Madeline and Keil, Colin and Nir, Jagatpreet and Zhang, Zhiyong and Singh, Hanumant},
+  booktitle={2023 IEEE 19th International Conference on Automation Science and Engineering (CASE)}, 
+  title={Challenges of Indoor SLAM: A Multi-Modal Multi-Floor Dataset for SLAM Evaluation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/CASE56687.2023.10260618}}
+```
